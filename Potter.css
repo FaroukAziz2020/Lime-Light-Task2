@@ -34,7 +34,7 @@ section {
 }
 
 .intro {
-  background: url("hogwarts.avif") center/cover no-repeat fixed;
+  background: url("Hogwarts.avif") center/cover no-repeat fixed;
   font-size: 4rem;
   color: #fff;
 }
@@ -114,4 +114,4 @@ section {
     transform: translateY(-10vh);
     opacity: 0;
   }
-}/*# sourceMappingURL=Potter.css.map */
+}
